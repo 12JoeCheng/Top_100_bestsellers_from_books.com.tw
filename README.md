@@ -1,6 +1,3 @@
-##Web Scraping with Scrapy then Storing with SQLite database
-
-
 本計畫主要透過Scrapy於網路擷取博客來網站(books.com.tw)中文熱銷書籍排行榜，並將擷取資料儲存至python內建的SQLite database。
 
 主要的檔案分別為：
